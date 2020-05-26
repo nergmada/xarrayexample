@@ -15,6 +15,8 @@ apt install libgeos-dev
 
 pip install cartopy
 
+conda install --channel conda-forge cartopy
+
 pip install matplotlib
 
 pip install xarray
