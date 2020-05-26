@@ -28,3 +28,7 @@ pip install netcdf4
 pip install dask
 
 pip install toolz
+
+pip freeze > requirements.txt
+
+pip install -r path/to/requirements.txt
